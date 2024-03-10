@@ -1,8 +1,15 @@
 body {
-}
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  h1 {
+    color: rgb(93, 176, 16);
+  }
+  h2 {
+    color: rgb(204, 68, 125);
+  }
 }
